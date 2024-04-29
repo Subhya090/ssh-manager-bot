@@ -1,10 +1,10 @@
 {
-    "bot_token": "6570658233:AAHJTt7jf7CoDw6gfaKkwb3ASpC-VpYu16w",
-    "server_address": "serveo.net",
-    "ports": [6363],
+    "bot_token": "6570658233:AAHJTw",
+    "server_address": "set",
+    "ports": [63],
     "location": "CA",
-    "admin_list": [1331345346],
-    "log_chat": "1331345346",
-    "prefix": "Dixtor"
+    "admin_list": [13346],
+    "log_chat": "133346",
+    "prefix": "Dr"
 }
 
